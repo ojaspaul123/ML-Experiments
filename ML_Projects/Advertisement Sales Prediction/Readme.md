@@ -1,4 +1,4 @@
-# 📈 Advertisement Sales Prediction
+# 📈 Advertisement Sales Prediction using Linear Regression
 
 A Machine Learning project that predicts product **Sales** based on advertising budgets across **TV**, **Radio**, and **Newspaper** channels using **Linear Regression**.
 
