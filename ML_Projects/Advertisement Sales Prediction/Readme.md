@@ -176,6 +176,7 @@ Streamlit will auto-open:
 Local URL:    http://localhost:8501
 Network URL:  http://10.2.0.2:8501
 ```
+<img width="1893" height="1085" alt="Screenshot 2026-03-15 181519" src="https://github.com/user-attachments/assets/15f5c402-b412-4bbb-a7be-b19e970e356f" />
 
 ---
 
