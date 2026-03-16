@@ -8,7 +8,7 @@ A Machine Learning project that predicts product **Sales** based on advertising 
 
 > Run locally with Streamlit — see [How to Run](#-how-to-run) below.
 
-["C:\Users\KIIT\Pictures\Screenshots\Screenshot 2026-03-15 181417.png"](https://github.com/ojaspaul123/ML-Experiments/blob/main/ML_Projects/Advertisement%20Sales%20Prediction/Screenshot%202026-03-15%20181417.png?raw=true)
+[C:\Users\KIIT\Pictures\Screenshots\Screenshot 2026-03-15 181417.png](https://github.com/ojaspaul123/ML-Experiments/blob/main/ML_Projects/Advertisement%20Sales%20Prediction/Screenshot%202026-03-15%20181417.png?raw=true)
 
 
 ---
