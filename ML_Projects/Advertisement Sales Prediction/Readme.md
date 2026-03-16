@@ -7,7 +7,7 @@ A Machine Learning project that predicts product **Sales** based on advertising 
 ## 🚀 Live Demo
 
 > Run locally with Streamlit — see [How to Run](#-how-to-run) below.
-
+<img width="221" height="263" alt="image" src="https://github.com/user-attachments/assets/5157362c-103b-458e-a370-513a022a9649" />
 
 ---
 
