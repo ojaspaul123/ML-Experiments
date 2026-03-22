@@ -34,7 +34,7 @@ This repo walks through each of these steps — **one notebook at a time** — s
 | `standardScaler.ipynb` | Standard Scaler | Standardizes features by removing the mean and scaling to unit variance |
 | `Categorical_Encoding.ipynb` | Categorical Encoding | Converts text/category columns into numeric values using Label Encoding |
 | `OneHotEncoder.ipynb` | One-Hot Encoding | Transforms categorical variables into binary columns (0s and 1s) |
-| `Data_Inputation.ipynb` | Data Imputation | Handles missing values using strategies like mean, median, and mode |
+| `Data_Imputation.ipynb` | Data Imputation | Handles missing values using strategies like mean, median, and mode |
 
 
 
