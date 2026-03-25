@@ -35,6 +35,7 @@ This repo walks through each of these steps — **one notebook at a time** — s
 | `Categorical_Encoding.ipynb` | Categorical Encoding | Converts text/category columns into numeric values using Label Encoding |
 | `OneHotEncoder.ipynb` | One-Hot Encoding | Transforms categorical variables into binary columns (0s and 1s) |
 | `Data_Imputation.ipynb` | Data Imputation | Handles missing values using strategies like mean, median, and mode |
+| `Data_Transformation.ipynb` | Data Transformation | changing raw data into a format that a machine learning model can understand |
 
 
 
@@ -78,6 +79,7 @@ Then open any `.ipynb` file from the browser interface.
 ```
 Raw Data
    │
+   ├── Column Transformation?        → Data_Transformation.ipynb
    ├── Missing Values?        → Data_Imputation.ipynb
    ├── Categorical Columns?   → Categorical_Encoding.ipynb
    │                            OneHotEncoder.ipynb
