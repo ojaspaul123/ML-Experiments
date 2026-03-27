@@ -79,7 +79,7 @@ Then open any `.ipynb` file from the browser interface.
 ```
 Raw Data
    │
-   ├── Column Transformation?        → Data_Transformation.ipynb
+   ├── Column Transformation? → Data_Transformation.ipynb
    ├── Missing Values?        → Data_Imputation.ipynb
    ├── Categorical Columns?   → Categorical_Encoding.ipynb
    │                            OneHotEncoder.ipynb
