@@ -202,7 +202,24 @@ Then open `http://localhost:8501` in your browser.
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+⚠️ Model Accuracy Disclaimer
 
+This model was trained on a specific telecom dataset and achieves an accuracy of approximately ~77%.
+
+Since the model is trained on a limited and specific dataset, predictions may or may not always be accurate for every input combination. This means:
+
+The model can sometimes misclassify a churning customer as non-churning, or vice versa
+Results should be treated as indicative, not definitive
+For production-level use, the model would benefit from more data, hyperparameter tuning, or trying advanced algorithms like Random Forest or XGBoost
+
+This is a learning/demo project intended to showcase how a machine learning model can be deployed as a web app using Streamlit.
+
+💬 A Note from @ojaspaul123
+Hey! 👋 Thanks for checking out this project.
+This is one of my early machine learning projects where I built a customer churn prediction system using Logistic Regression and deployed it with Streamlit. The model gives around 77% accuracy — which means it works reasonably well, but isn't perfect.
+The predictions are based on patterns learned from the training data, so results may vary depending on the inputs. I'm continuously learning and plan to improve this project further.
+Feel free to explore the code, raise issues, or suggest improvements. Every bit of feedback helps! 🙌
+— @ojaspaul123
 ---
 
 ## 📄 License
