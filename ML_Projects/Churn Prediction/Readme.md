@@ -12,7 +12,8 @@ The app provides a simple form UI where you input customer attributes and click 
 <img width="1430" height="840" alt="image" src="https://github.com/user-attachments/assets/17598854-32c0-497f-a8d8-89b2280af54e" />
 <img width="1344" height="896" alt="image" src="https://github.com/user-attachments/assets/2a7d8efd-fce6-41ad-805e-e8077b0881ee" />
 
-The App at http://localhost:8501/
+> The app will open at **http://localhost:8501/**
+
 ---
 
 ## 📁 Project Structure
