@@ -198,8 +198,8 @@ joblib>=1.3.0
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@ojaspaul123](https://github.com/ojaspaul123)
+- LinkedIn: [@ojas-paul](https://www.linkedin.com/in/ojas-paul-324aa5337/)
 
 ---
 
