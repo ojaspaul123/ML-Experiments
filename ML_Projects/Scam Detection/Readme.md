@@ -8,9 +8,7 @@ A machine learning-powered web application that detects whether an SMS message i
 
 | Spam Detected | Ham (Not Spam) |
 |---|---|
-| <img width="1919" height="1120" alt="Screenshot 2026-05-03 010933" src="https://github.com/user-attachments/assets/9657b087-3c58-4798-b013-9c5359cf6409" />
-| <img width="1903" height="1116" alt="Screenshot 2026-05-03 010905" src="https://github.com/user-attachments/assets/802589db-c983-4481-b4f2-ab59dca2ec4c" />
-|
+| <img width="1919" height="1120" alt="Screenshot 2026-05-03 010933" src="https://github.com/user-attachments/assets/9657b087-3c58-4798-b013-9c5359cf6409" /> | <img width="1903" height="1116" alt="Screenshot 2026-05-03 010905" src="https://github.com/user-attachments/assets/802589db-c983-4481-b4f2-ab59dca2ec4c" /> |
 
 > **Spam input:** *"Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw..."*
 > **Ham input:** *"I'm gonna be home soon and I don't want to talk about this stuff anymore tonight, k?"*
