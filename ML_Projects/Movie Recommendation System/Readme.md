@@ -1,8 +1,8 @@
 # 🎬 Movie Recommendation System - TMDB Dataset using cosine similarity
 
 A content-based movie recommendation system built with Python, scikit-learn, and Streamlit — deployed as an interactive web app that suggests similar movies using NLP and cosine similarity on the TMDB 5000 dataset.
-|---|---|
-|<img width="1452" height="840" alt="image" src="https://github.com/user-attachments/assets/2f3e45a9-7762-4d2d-a6f6-bb15f0fe1acc" /> | <img width="959" height="560" alt="Screenshot 2026-05-11 004544" src="https://github.com/user-attachments/assets/d4525334-2dd9-42df-a945-0b2e9b9bc23f" /> |
+
+<img width="1452" height="840" alt="image" src="https://github.com/user-attachments/assets/2f3e45a9-7762-4d2d-a6f6-bb15f0fe1acc" />  <img width="959" height="560" alt="Screenshot 2026-05-11 004544" src="https://github.com/user-attachments/assets/d4525334-2dd9-42df-a945-0b2e9b9bc23f" /> 
  
 
 
@@ -65,8 +65,8 @@ movie-recommendation-system/
 │
 ├── Movie_Recommendation_System.ipynb   # Data preprocessing & model building (Google Colab)
 ├── Movie_app.py                        # Streamlit web application
-├── movies.pkl                          # Serialized DataFrame (movie_id, title, tags)
-├── similarity.pkl                      # Precomputed cosine similarity matrix
+├── movies.pkl                          # Serialized DataFrame (movie_id, title, tags) ## Large File (doesn't Uploaded yet)
+├── similarity.pkl                      # Precomputed cosine similarity matrix         ## Large File (doesn't Uploaded yet)
 └── README.md
 ```
 
